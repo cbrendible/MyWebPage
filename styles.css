@@ -76,3 +76,12 @@ body {
     padding-right: 100px;
 }
 
+.logo-wrapper img {
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    font-weight: 600;
+    color: rgba(0, 206, 206, 0.863);
+}
