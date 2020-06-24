@@ -45,7 +45,7 @@ body {
   border-bottom: black;
 }
 
-/*Portfolio Syles */
+/*Portfolio Styles */
 .portfolio-items-wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
